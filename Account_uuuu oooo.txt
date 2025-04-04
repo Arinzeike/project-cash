@@ -1,0 +1,7 @@
+Account Successfully Created!
+===============================
+Full Name     : uuuu oooo
+Account Number: 1998381045
+PIN           : 0000
+===============================
+Please keep this file safe.

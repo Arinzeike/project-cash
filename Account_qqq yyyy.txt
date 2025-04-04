@@ -1,0 +1,8 @@
+🎉 Account Successfully Created!
+===============================
+Full Name     : qqq yyyy
+Account Number: 4189877524
+PIN           : 0909
+Balance       : ₦0.00
+===============================
+📌 Please keep this file safe.
